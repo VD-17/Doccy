@@ -68,7 +68,7 @@ Ultimately, I built Doccy to deepen my understanding of how modern chatbots can 
    
    Create a `.env` file in the project root:
 ```bash
-   touch .env
+   .env
 ```
    
    Add your Gemini API key:
