@@ -11,7 +11,7 @@ Doccy is an emotionally intelligent chatbot designed to understand and adapt to 
 
 ## Technologies Used
 - **Language**: Python 3.x
-- **AI Engine**: Google Gemini 2.0 Flash (gemini-3-flash-preview)
+- **AI Engine**: Google gemini-3-flash-preview
 - **Data Structures**: `collections.deque` for efficient conversation history management
 - **Storage**: JSON-based local file caching
 - **Environment Management**: python-dotenv
